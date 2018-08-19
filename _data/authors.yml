@@ -7,33 +7,55 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 tnauss: # replace this with your info
   name: "Prof. Dr. Thomas Nauss"
-  title: "Umweltinformatik"
-  subprojects: "[Sprecher Natur 4.0](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html), ÖP4, ML2"
+  workgroup: "Umweltinformatik"
+  projectrole: "Sprecher Natur 4.0"
   affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
   siterole: "Administrator"
   uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
   email: nauss@uni-marburg.de
   twitter: "@Nature40Lab"
   img: tnauss.jpg
+  subprojects: 
+    - title: Sprecher Natur 4.0
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+    - title: ÖP4
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+    - title: ML2
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+
 
 tnauss1: # replace this with your info
   name: "Prof. Dr. Thomas Nauss1"
-  title: "Umweltinformatik"
-  subprojects: "[Sprecher Natur 4.0](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html), ÖP4, ML2"
+  workgroup: "Umweltinformatik"
+  projectrole: "Sprecher Natur 4.0"
   affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
   siterole: "Administrator"
   uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
   email: nauss@uni-marburg.de
   twitter: "@Nature40Lab"
   img: tnauss.jpg
+  subprojects: 
+    - title: Sprecher Natur 4.0
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+    - title: ÖP4
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+    - title: ML2
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
 
 tnauss2: # replace this with your info
   name: "Prof. Dr. Thomas Nauss2"
-  title: "Umweltinformatik"
-  subprojects: "[Sprecher Natur 4.0](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html), ÖP4, ML2"
+  workgroup: "Umweltinformatik"
+  projectrole: "Sprecher Natur 4.0"
   affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
   siterole: "Administrator"
   uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
   email: nauss@uni-marburg.de
   twitter: "@Nature40Lab"
   img: tnauss.jpg
+  subprojects: 
+    - title: Sprecher Natur 4.0
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+    - title: ÖP4
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+    - title: ML2
+      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
