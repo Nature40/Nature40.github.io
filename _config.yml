@@ -49,6 +49,7 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-admin
 
 
 #       ____              _             __  _
@@ -79,7 +80,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'de'
 
 
 # Used › default.html front-matter and compress.html
@@ -192,8 +193,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: Nature40Lab
+    # facebook: phlow.media
 
 
 #        ____  _
@@ -205,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+# disqus_shortname: feelingresponsive
 
 
 #      _____
@@ -229,7 +230,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+# google_analytics_tracking_id: UA-60112281-1
 
 
 
