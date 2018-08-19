@@ -6,9 +6,34 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 tnauss: # replace this with your info
-  name: "Thomas Nauss"
+  name: "Prof. Dr. Thomas Nauss"
+  title: "Umweltinformatik"
+  subprojects: "[Sprecher Natur 4.0](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html), ÖP4, ML2"
+  affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
   siterole: "Administrator"
   uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
   email: nauss@uni-marburg.de
   twitter: "@Nature40Lab"
-# you can add more authors here
+  img: tnauss.jpg
+
+tnauss1: # replace this with your info
+  name: "Prof. Dr. Thomas Nauss1"
+  title: "Umweltinformatik"
+  subprojects: "[Sprecher Natur 4.0](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html), ÖP4, ML2"
+  affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
+  siterole: "Administrator"
+  uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+  email: nauss@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: tnauss.jpg
+
+tnauss2: # replace this with your info
+  name: "Prof. Dr. Thomas Nauss2"
+  title: "Umweltinformatik"
+  subprojects: "[Sprecher Natur 4.0](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html), ÖP4, ML2"
+  affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
+  siterole: "Administrator"
+  uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+  email: nauss@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: tnauss.jpg

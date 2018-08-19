@@ -1,0 +1,21 @@
+{% for author in site.data.authors %}
+
+
+
+<div class="row">
+  <div class="medium-4 columns">
+    <p><img src="{{ site.urlimg }}team/{{ author[1].img }}" alt=""></p>
+  </div>
+  <div class="medium-8 columns">
+  <a href="{{ author[1].uri }}" target="_blank"> {{ author[1].name }}</a>
+    <p>
+	{{ author[1].subprojects | markdownify }}
+    {{ author[1].title }}<br>
+    {{ author[1].projectrole }}
+    {{ author[1].affiliation }}<br>
+    {{ author[1].email }}
+	</p>
+  </div>
+</div>
+
+{% endfor %}
