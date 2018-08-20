@@ -9,12 +9,12 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Motivation und Ziele"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: "/blog/"
   image: widget-1-302x182.jpg
   text: 'Um Artenvielfalt und Ökosystemleistungen zu erhalten müssen automatische Monitoringsysteme entwickelt werden.'
 widget2:
   title: "MarburgOpenForest"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: "/info/"
   text: 'Der Universitätswald bei Caldern ist das Forschungs- und Entwicklungsgebiet für ein neues Biodiversitätsmonitorings.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
