@@ -8,18 +8,18 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Motivation und Ziele"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Überblick über Natur 4.0"
+  url: '/one-page-summary'
   image: widget-1-302x182.jpg
-  text: 'Um Artenvielfalt zu erhalten und Ökosystemleistungen nachhaltig zu sichern müssen effiziente Monitoringansätze entwickelt werden.'
+  text: 'Flächendeckendes Naturschutzmonitoring durch vernetzte Sensorik als Grundlage für einen nachhaltigen Artenschutz und die Sicherung von Ökosystemfunktionen.'
 widget2:
-  title: "MarburgOpenForest"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'Der Universitätswald Caldern als Forschungs- und Lehrwald ist das Entwicklungsgebiet für ein neues Biodiversitätsmonitoring.'
+  title: "Das Team von Natur 4.0"
+  url: '/team'
+  text: 'Vernetztes Naturschutzmonitoring erfordert ein vernetztes Team im Querschnittsverbund aus Wissenschaft, Praxis und Bildung.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Fragen und Kontakt"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'qa-contact'
   image: widget-github-303x182.jpg
   text: 'Waldspaziergang mit Roboter? Hier finden Sie Antworten auf allgemeine Fragen und Kontaktinformationen.'
 #
@@ -43,6 +43,8 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+<a class="twitter-timeline" href="https://twitter.com/Nature40Lab?ref_src=twsrc%5Etfw">Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

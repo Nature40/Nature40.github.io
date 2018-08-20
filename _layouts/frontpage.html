@@ -74,7 +74,7 @@ format: frontpage
             </p>
             {% endif %}
             {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            <h2><a href="{{ site.url }}{{ site.baseurl }}/blog/">{{ site.data.language.new_blog_entries }}</a></h2>
             {% endif %}
             {% endfor %}
         </div><!-- /.small-12.columns -->

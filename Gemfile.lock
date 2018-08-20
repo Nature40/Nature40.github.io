@@ -40,6 +40,7 @@ GEM
     jekyll-asciidoc (2.1.0)
       asciidoctor (>= 1.5.0)
       jekyll (>= 2.3.0)
+    jekyll-email-protect (1.1.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
@@ -102,6 +103,7 @@ DEPENDENCIES
   jekyll
   jekyll-admin
   jekyll-asciidoc
+  jekyll-email-protect
   jekyll-gist
   jekyll-paginate
 

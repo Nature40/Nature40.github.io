@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Über Natur 4.0
+  url: "/about/"
+  side: left
+
 - title: Team
   url: "/team/"
   side: left

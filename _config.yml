@@ -50,6 +50,7 @@ gems:
     - jekyll-gist
     - jekyll-paginate
     - jekyll-admin
+    - jekyll-email-protect
 
 
 #       ____              _             __  _
