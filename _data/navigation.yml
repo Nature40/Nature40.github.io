@@ -3,11 +3,11 @@
   side: left
 
 - title: Über Natur 4.0
-  url: "/about/"
+  url: "/pages/de/about/"
   side: left
 
 - title: Team
-  url: "/team/"
+  url: "/pages/de/team/"
   side: left
 
 - title: Getting Started

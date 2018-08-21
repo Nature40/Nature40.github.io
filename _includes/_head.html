@@ -89,3 +89,6 @@
 	{% unless page.style == NULL %}
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
+	
+	{% include cookieconsent.html %}
+	<script type="text/javascript" src="{{ url }}/assets/js/cookies.js"></script>

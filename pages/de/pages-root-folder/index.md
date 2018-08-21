@@ -8,18 +8,18 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Überblick über Natur 4.0"
-  url: '/one-page-summary'
+  title: "Natur 4.0 im Überblick"
+  url: '/pages/de/about/one-page-summary'
   image: widget-1-302x182.jpg
   text: 'Flächendeckendes Naturschutzmonitoring durch vernetzte Sensorik als Grundlage für einen nachhaltigen Artenschutz und die Sicherung von Ökosystemfunktionen.'
 widget2:
   title: "Das Team von Natur 4.0"
-  url: '/team'
+  url: '/pages/de/team'
   text: 'Vernetztes Naturschutzmonitoring erfordert ein vernetztes Team im Querschnittsverbund aus Wissenschaft, Praxis und Bildung.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Fragen und Kontakt"
-  url: 'qa-contact'
+  url: '/pages/de/qa-contact'
   image: widget-github-303x182.jpg
   text: 'Waldspaziergang mit Roboter? Hier finden Sie Antworten auf allgemeine Fragen und Kontaktinformationen.'
 #
