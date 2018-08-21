@@ -44,49 +44,7 @@ permalink: /index.html
 homepage: true
 ---
 
-<!-- (removed original twitter entry)
-<a class="twitter-timeline" href="https://twitter.com/Nature40Lab?ref_src=twsrc%5Etfw">Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
-
 <p id="twitter-target"><button onclick="setShowTwitter()">Ich bin damit einverstanden, dass mir Inhalte von Twitter angezeigt werden.</button></p>
-
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/cookies.js"></script>
-
-<script type="text/javascript">
-
-function setShowTwitter() {
-  docCookies.setItem("show-twitter", "true");
-  showTwitter();
-}
-
-function showTwitter() {
-  var tag_a = document.createElement("a");
-  tag_a.className = "twitter-timeline";
-  tag_a.href = "https://twitter.com/Nature40Lab?ref_src=twsrc%5Etfw";
-  tag_a.innerHTML = "Tweets";
-  var tag_script = document.createElement("script");
-  tag_script.async = true;
-  tag_script.src = "https://platform.twitter.com/widgets.js";
-  tag_script.charset = "utf-8";
-
-  tag_target = document.getElementById("twitter-target");
-  tag_target.innerHTML = "";
-  tag_target.appendChild(tag_a);
-  tag_target.appendChild(tag_script);
-}
-
-function init() {
-  var cooky = docCookies.getItem("show-twitter");
-  if(cooky === 'true') {
-    showTwitter();
-  }
-}
-
-document.addEventListener('DOMContentLoaded', function() {init();}, false);
-
-</script>
-
-
 
 
 
