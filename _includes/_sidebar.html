@@ -1,20 +1,46 @@
 <aside>
 	<div class="panel radius">
-		<h3>Sidebar</h3>
+		<h3>Neues von Natur 4.0</h3>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			In unserem Blog berichten wir von Neuigkeiten aus dem Projekt. Abonnieren Sie diese Webseite oder folgen Sie uns auf <a href="https://twitter.com/Nature40Lab/" target="_blank">Twitter</a> damit Sie nichts verpassen.
 		</p>
 	</div>
 
-  <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">
-
-
 	<div class="border-dotted radius b30">
-		<img src="http://placekitten.com/271/270" alt="uh, Placekitten">
-		<p class="text-left">
-			This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a>
-		</p>
+	  <p id="twitter-target"><button onclick="setShowTwitter()">Ich bin damit einverstanden, dass mir Inhalte von Twitter angezeigt werden.</button></p>
+
+<script type="text/javascript">
+
+function setShowTwitter() {
+  docCookies.setItem("show-twitter", "true");
+  showTwitter();
+}
+
+function showTwitter() {
+  var tag_a = document.createElement("a");
+  tag_a.className = "twitter-timeline";
+  tag_a.href = "https://twitter.com/Nature40Lab?ref_src=twsrc%5Etfw";
+  tag_a.innerHTML = "Tweets";
+  var tag_script = document.createElement("script");
+  tag_script.async = true;
+  tag_script.src = "https://platform.twitter.com/widgets.js";
+  tag_script.charset = "utf-8";
+
+  tag_target = document.getElementById("twitter-target");
+  tag_target.innerHTML = "";
+  tag_target.appendChild(tag_a);
+  tag_target.appendChild(tag_script);
+}
+
+function init() {
+  var cooky = docCookies.getItem("show-twitter");
+  if(cooky === 'true') {
+    showTwitter();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function() {init();}, false);
+
+</script>
 	</div>
 </aside>
