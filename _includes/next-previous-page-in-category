@@ -1,0 +1,43 @@
+{% comment %}
+*
+* This include creates a next/previous link to a page of the same category
+* using the categories-variable in front matter.
+*
+* Use ›  {% include next-previous-page-in-category %}
+*
+{% endcomment %}
+
+
+{% comment %}
+*
+* assign FIRST category from categories variable from front matter to cat
+* and make a string from the array by using › join: ''
+*
+{% endcomment %}
+
+
+{% assign folder = site.pages | where_exp:  "item" , "item.categories contains 'about'" %}
+{% for item in folder %}
+    {% if item.url == page.url %}
+      {% assign page_index0 = forloop.index0 %}
+      {% assign page_index1 = forloop.index %}
+  {% endif %}
+{% endfor %}
+
+{% for item in folder %}
+  {% if page_index0 == forloop.index %}
+    {% assign next_page = item.url %}
+  {% endif %}
+  {% if page_index1 == forloop.index0 %}
+    {% assign prev_page = item.url %}
+  {% endif %}
+{% endfor %}
+
+{% if next_page %}
+  <a class="left button tiny radius icon-chevron-left r15" href="{{site.url}}{{site.baseurl}}{{ next_page }}">{{ site.data.language.previous_page }}</a>
+{% endif %}
+
+{% if prev_page %}
+  <a class="button tiny radius" href="{{site.url}}{{site.baseurl}}{{ prev_page }}">{{ site.data.language.next_page }}<span class="icon-chevron-right"></span></a>
+ 
+{% endif %}

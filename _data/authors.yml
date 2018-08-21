@@ -6,6 +6,7 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 tnauss: # replace this with your info
+  shortname: tnauss
   name: "Prof. Dr. Thomas Nauss"
   workgroup: "Umweltinformatik"
   projectrole: "Sprecher Natur 4.0"
@@ -25,6 +26,7 @@ tnauss: # replace this with your info
 
 
 tnauss1: # replace this with your info
+  shortname: tnauss1
   name: "Prof. Dr. Thomas Nauss1"
   workgroup: "Umweltinformatik"
   projectrole: "Sprecher Natur 4.0"
@@ -43,6 +45,7 @@ tnauss1: # replace this with your info
       url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
 
 tnauss2: # replace this with your info
+  shortname: tnauss2
   name: "Prof. Dr. Thomas Nauss2"
   workgroup: "Umweltinformatik"
   projectrole: "Sprecher Natur 4.0"

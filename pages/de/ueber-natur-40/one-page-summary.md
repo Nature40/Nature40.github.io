@@ -5,6 +5,8 @@ subheadline: "Natur 4.0 | Sensing Biodiversity"
 teaser: "Naturschutzmonitoring durch vernetzte Sensorik als Grundlage für einen nachhaltigen Artenschutz und die Sicherung von Ökosystemfunktionen."
 header:
    image_fullwidth: "header_roadmap_2.jpg"
+categories:
+    - notabout
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
