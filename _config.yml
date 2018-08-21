@@ -14,10 +14,10 @@ title: 'Natur 4.0'
 slogan: 'Sensing Biodiversity'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'LOEWE-Schwerpunkt Natur 4.0'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Die Webseite nutzt <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> und basiert auf <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> von <a href="http://phlow.de/">Phlow</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -105,8 +105,7 @@ compress_html:
 # Default Settings
 
 defaults:
-  -
-    scope:
+  - scope:
       path: '' 				# an empty string here means all files in the project
       type: 'pages'
     values:
@@ -114,8 +113,8 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: tnauss     # Default author for pages
-  -
-    scope:
+  
+  - scope:
       path: ''
       type: 'posts'
     values:
@@ -123,14 +122,20 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: tnauss     # Default author for posts
-  -
-    scope:
+  
+  - scope:
       path: "pages/de/ueber-natur-40"
       type: 'pages'
     values:
       categories: "about"
       layout: "page-fullwidth"
 
+  - scope:
+      path: "pages/de/methoden-sensorik"
+      type: 'pages'
+    values:
+      categories: "methods"
+      layout: "page-fullwidth"
 
 
 #       _   __            _             __  _

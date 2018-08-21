@@ -18,7 +18,7 @@ teaser: "Die Entwicklung von NatNet erfordert einen wissenschaftlichen Verbund u
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-{% include _image.html file="structure-nature-40.jpg" description="Struktur von Natur 4.0" %}
+{% include _image.html file="structure-nature-40.png" description="Struktur von Natur 4.0" %}
 
 ## Sensornetzwerk
 Ziel ist die Zusammenstellung effizienter und modularer Umweltsensorboxen, die über autarke Kommunikationsnetze und eine Datenvorverarbeitung im Netzwerk die primäre Datenerfassungskomponente von NatNet bilden. Die Sensor-Plattform-Kombinationen integrieren Bewegungsinformationen mit klimatischen, akustischen und/oder optischen Messungen. Die Sensorboxen werden auch in bürgerwissenschaftlichen Aktivitäten eingesetzt, die daher in diesen Bereich eingruppiert werden.

@@ -5,58 +5,31 @@
 - title: Über Natur 4.0
   url: "/pages/de/ueber-natur-40/"
   side: left
+  dropdown:
+  - title: "Kurz und bündig"
+    url: "/pages/de/ueber-natur-40/one-page-summary/"
+  - title: "Ziele und Leitidee"
+    url: "/pages/de/ueber-natur-40/0010-aims/"
+  - title: "Moduleare Forschungsstruktur"
+    url: "/pages/de/ueber-natur-40/0020-structure/"
+  - title: "Projektbereich Sensornetzwerk"
+    url: "/pages/de/ueber-natur-40/0100-sensor-networks/"
+  - title: "Projektbereich Ökologische Pilotierung"
+    url: "/pages/de/ueber-natur-40/0200-ecology/"
+  - title: "Projektbereich Umweltmodellierung"
+    url: "/pages/de/ueber-natur-40/0300-environmental-modelling/"
+
+- title: Methoden und Sensorik
+  url: "/pages/de/methoden-sensorik/"
+  side: left
 
 - title: Team
   url: "/pages/de/team/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Fragen und Antworten
+  url: "/pages/de/questions-answers/"
   side: left
-
-- title: "Templates"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
 - title: Documentation
   url: "/documentation/"
@@ -71,13 +44,13 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Blog Archiv"
+    url: "/blog/archiv/"
 
-- title: "Search"
-  url: "/search/"
+- title: "Suche"
+  url: "/pages/de/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Kontakt"
+  url: "/pages/de/contact/"
   side: right

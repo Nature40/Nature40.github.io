@@ -32,6 +32,7 @@ Der Projektbereich SN legt mit der zentralen Datenerfassungskomponente die Grund
 
 
 ### SN1 | Sensorboxen
+{: #SN1 }
 
 Projektleitung | [Bernd Freisleben]({{ site.baseurl }}{% link pages/de/team.md %}#bfreisleben), [Ralf Steinmetz]({{ site.baseurl }}{% link pages/de/team.md %}#rsteinmetz)
 Team | NN
@@ -39,6 +40,7 @@ Herausforderung | Autonom kommunizierende ortsfeste und mobile Sensorboxen bilde
 
 
 ### SN2 | Kommunikation und Apps
+{: #SN2 }
 
 Projektleitung | [Ralf Steinmetz]({{ site.baseurl }}{% link pages/de/team.md %}#rsteinmetz), [Bernd Freisleben]({{ site.baseurl }}{% link pages/de/team.md %}#bfreisleben)
 Team | NN
@@ -46,6 +48,7 @@ Herausforderung | Die hochauflösenden Sensorboxen (SN1) erfordern effiziente un
 
 
 ### SN3 | Bildungswissenschaftliche Beteiligung
+{: #SN3 }
 
 Projektleitung | [Carina Peter]({{ site.baseurl }}{% link pages/de/team.md %}#cpeter)
 Team | NN

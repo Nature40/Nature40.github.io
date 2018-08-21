@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplash_5.jpg
 widget1:
   title: "Natur 4.0 im Überblick"
   url: '/pages/de/ueber-natur-40/one-page-summary'

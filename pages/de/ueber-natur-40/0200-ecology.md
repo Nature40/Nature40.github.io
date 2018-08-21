@@ -30,6 +30,7 @@ Der Projektbereich ÖP legt mit der ökologischen Expertise und der in situ Erfa
 
 
 ### ÖP1 | Habitatangebote, Primärproduktion und Stress von Bäumen
+{: #OP1 }
 
 Projektleitung | [Lars Opgenoorth]({{ site.baseurl }}{% link pages/de/team.md %}#lopgenoorth)
 Team | NN
@@ -37,6 +38,7 @@ Herausforderung | Als wichtigste Strukturbildner und Nettoprimärproduzenten sin
 
 
 ### ÖP2 | Insektengemeinschaften und Ökosystemprozesse
+{: #OP2 }
 
 Projektleitung | [Roland Brandl]({{ site.baseurl }}{% link pages/de/team.md %}#rbrandl), [Martin Brändle]({{ site.baseurl }}{% link pages/de/team.md %}#mbraendle)
 Team | NN
@@ -44,6 +46,7 @@ Herausforderung | Baumbewohnende Insekten, insbesondere phytophage Arten, sind e
 
 
 ### ÖP3 | Bewegungsökologie und Mikrohabitatwahl von mittelgroßen Vogelarten
+{: #OP3 }
 
 Projektleitung | [Petra Quillfeldt]({{ site.baseurl }}{% link pages/de/team.md %}#pquillfeldt)
 Team | NN
@@ -51,6 +54,7 @@ Herausforderung | Die mitteleuropäische Kulturlandschaft ist geprägt durch ein
 
 
 ### ÖP4 | Quartierswahl und Jagdaktivität von Fledermäusen 
+{: #OP4 }
 
 Projektleitung | [Thomas Nauss]({{ site.baseurl }}{% link pages/de/team.md %}#tnauss)
 Team | NN
@@ -58,6 +62,7 @@ Herausforderung | Waldbewohnende Fledermausarten sind als hochmobile Artengruppe
 
 
 ### ÖP5 | Bewegungsökologie von Rehen
+{: #OP5 }
 
 Projektleitung | [Thomas Müller]({{ site.baseurl }}{% link pages/de/team.md %}#tmueller)
 Team | NN
@@ -65,6 +70,7 @@ Herausforderung | Ohne Tierbewegungen würden wichtige Ökosystemfunktionen wie 
 
 
 ### ÖP6 | Nahrungsnetze
+{: #OP6 }
 
 Projektleitung | [Petra Quillfeldt]({{ site.baseurl }}{% link pages/de/team.md %}#pquillfeldt)
 Team | NN

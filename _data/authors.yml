@@ -18,31 +18,11 @@ tnauss:
   img: tnauss.jpg
   subprojects: 
     - title: Sprecher Natur 4.0
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+      url: 0400-nature-40-lab
     - title: ÖP4
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+      url: 0200-ecology
     - title: UM2
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-
-
-tnauss1:
-  shortname: tnauss1
-  name: "Prof. Dr. Thomas Nauss1"
-  workgroup: "Umweltinformatik"
-  projectrole: "Sprecher Natur 4.0"
-  affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
-  siterole: "Administrator"
-  uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-  email: nauss@uni-marburg.de
-  twitter: "@Nature40Lab"
-  img: tnauss.jpg
-  subprojects: 
-    - title: Sprecher Natur 4.0
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-    - title: ÖP4
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-    - title: UM2
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+      url: 0300-environmental-modelling
 
 
 hmeyer:

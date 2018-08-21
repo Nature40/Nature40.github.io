@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
+title: "Kontakt"
+subheadline: "Natur 4.0 | Sensing Biodiversity"
+teaser: "Hier finden Sie Kontaktinformationen für Anregungen, Kritik, Fragen und was Sie sonst noch bewegt."
+header:
+   image_fullwidth: "header_roadmap_2.jpg"
+categories:
+    - contact
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
 
- [1]: http://www.wufoo.com/
+
+## Projektkkordination
+Bei Interesse, Fragen und Anregungen schreiben Sie bitte eine <a href="mailto:{{ 'natur40@uni-marburg.de' | encode_email }}" title="E-Mail an unsere Projektkoordination">E-Mail an unsere Projektkoordination</a>.

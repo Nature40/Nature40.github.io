@@ -16,8 +16,11 @@
   
   <p>Teilprojekte: 
   {% for subproject in  author[1].subprojects %}
-    <a href="{{ site.url }}{{ site.baseurl }}/pages/de/ueber-natur-40/{{ subproject.url }}#{{ subproject.title }}" target="_blank">{{ subproject.title }}</a>
-	 {% unless forloop.last %}, {% endunless %}
+    {% capture title %}
+	{{ subproject.title | replace: "ÖP", "OP" }}
+    {% endcapture %}
+    <a href="{{ site.url }}{{ site.baseurl }}/pages/de/ueber-natur-40/{{ subproject.url }}#{{ title }}" target="_blank">{{ subproject.title }}</a>
+	{% unless forloop.last %}, {% endunless %}
   {% endfor %}
   </p>
   </div>
