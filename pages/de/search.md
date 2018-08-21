@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Suche"
+title: "Suche (via Google)"
 sitemap: false
 ---
 
