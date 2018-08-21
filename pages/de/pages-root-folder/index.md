@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Natur 4.0 im Überblick"
-  url: '/pages/de/about/one-page-summary'
+  url: '/pages/de/ueber-natur-40/one-page-summary'
   image: widget-1-302x182.jpg
   text: 'Flächendeckendes Naturschutzmonitoring durch vernetzte Sensorik als Grundlage für einen nachhaltigen Artenschutz und die Sicherung von Ökosystemfunktionen.'
 widget2:

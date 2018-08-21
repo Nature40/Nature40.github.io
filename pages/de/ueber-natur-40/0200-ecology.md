@@ -2,7 +2,6 @@
 subheadline: Natur 4.0 | Sensing Biodiversity
 title:  "Projektbereich Ökologische Pilotierung"
 teaser: "Die Entwicklung von NatNet erfordert detaillierte Trainings- und Validierungsdatensätze. Im Projektbereich Ökologische Pilotierung (ÖP) werden klassische ökologische in situ Erfassungsmethoden mit den Möglichkeiten von NatNet kombiniert. Hierdurch wird die Bereitstellung der notwendigen ökologischen Basisdaten für die Entwicklung der einzelnen Modelle zusammen mit dem Projektbereich Umweltmodellierung gesichert. Gleichzeitig wird ein Praxistest für die Dokumentation des Potentials von NatNet mit Blick auf das naturschutzfachliche Monitoring und die ökologische Forschung ermöglicht."
-breadcrumb: true
 ---
 
 <div class="row">

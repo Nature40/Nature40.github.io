@@ -2,7 +2,6 @@
 subheadline: Natur 4.0 | Sensing Biodiversity
 title:  "Projektbereich Umweltmodellierung"
 teaser: "Ein naturschutzfachliches Monitoring in NatNet erfordert letztlich flächendeckende und zeitlich homogenisierte Datensätze, die die ökologischen Eigenschaften des Untersuchungsgebiets und die daran gebundenen Interaktionsnetzwerke abbilden. Im Projektbereich Umweltmodellierung (UM) werden hierfür operationelle Methoden zur Ableitung (klima-)ökologisch relevanter Informationen aus den heterogenen und raum-zeitlich diskontinuierlichen Datensätzen der Sensorboxen erforscht sowie räumliche Vorhersagemodelle entwickelt."
-breadcrumb: true
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -41,6 +40,7 @@ Herausforderung | Durch das im GFBio-Projekt entwickelte VAT-System (Authmann et
 
 
 ### UM2 | Fernerkundung und räumliche Vorhersage
+{: #UM2 }
 
 Projektleitung | [Jörg Bendix]({{ site.baseurl }}{% link pages/de/team.md %}#jbendix), [Hanna Meyer]({{ site.baseurl }}{% link pages/de/team.md %}#hmeyer), [Thomas Nauss]({{ site.baseurl }}{% link pages/de/team.md %}#tnauss), [Christoph Reudenbach]({{ site.baseurl }}{% link pages/de/team.md %}#creudenbach)
 Team | NN

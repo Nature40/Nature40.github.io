@@ -2,7 +2,6 @@
 subheadline: Natur 4.0 | Sensing Biodiversity
 title:  "Projektbereich Sensornetzwerk"
 teaser: "Um die notwendige Datendichte in NatNet zu erreichen, ist eine kontinuierliche, mobile und den Mikrohabitatskalen von Pflanzen und Tieren Rechnung tragende Datenerfassung nach dem Prinzip des Crowdsensing notwendig. Im Projektbereich Sensornetznetzwerk (SN) werden die hierfür verwendeten Sensorboxen realisiert und zusammen mit der Koordination im Natur 4.0 Lab deren Einrichtung, Wartung und Betreuung organisiert."
-breadcrumb: true
 ---
 
 <div class="row">

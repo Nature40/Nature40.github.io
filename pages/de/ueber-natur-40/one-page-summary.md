@@ -35,7 +35,7 @@ Als Testgebiet für die Prototypentwicklung von *NatNet* dient der im Besitz der
 Das nur im wissenschaftlichen Querschnittsverbund erreichbare Ziel verbindet Wissenschaftler/innen der Geographie, Informatik, Mathematik und Ökologie mit naturschutzfachlichen Experten/-innen aus Verwaltung und Privatwirtschaft. Es spannt die Brücke zwischen Grundlagenforschung und angewandter Forschung und bindet Schulen und Bürger in die wissenschaftlichen Untersuchungen ein. Das Innovationspotential schärft den Profilbereich „Biodiversität und Klima“ der Philipps-Universität sowie den Profilbereich „Klima- und Klimafolgenforschung“ des Forschungscampus Mittelhessen und komplementiert die vorhandene Expertise. Damit stärkt Natur 4.0 den Standort Hessen und liefert ein innovatives Instrument für die Umweltbeobachtung.
 
 ## Mehr Informationen
-Einen detailierteren Überblick über das Projekt, seine Teilprojekte und die verwendete Sensorik finden Sie im Abschnitt [Über Natur 4.0]({{ site.url }}{{ site.baseurl }}/about).
+Einen detailierteren Überblick über das Projekt, seine Teilprojekte und die verwendete Sensorik finden Sie im Abschnitt [Über Natur 4.0]({{ site.url }}{{ site.baseurl }}/pages/de/ueber-natur-40/).
 
 ## Kontakt
 Bei Interesse, Fragen und Anregungen schreiben Sie bitte eine <a href="mailto:{{ 'natur40@uni-marburg.de' | encode_email }}" title="E-Mail an unsere Projektkoordination">E-Mail an unsere Projektkoordination</a>.

@@ -5,7 +5,7 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-tnauss: # replace this with your info
+tnauss:
   shortname: tnauss
   name: "Prof. Dr. Thomas Nauss"
   workgroup: "Umweltinformatik"
@@ -21,11 +21,11 @@ tnauss: # replace this with your info
       url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
     - title: ÖP4
       url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-    - title: ML2
+    - title: UM2
       url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
 
 
-tnauss1: # replace this with your info
+tnauss1:
   shortname: tnauss1
   name: "Prof. Dr. Thomas Nauss1"
   workgroup: "Umweltinformatik"
@@ -41,24 +41,21 @@ tnauss1: # replace this with your info
       url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
     - title: ÖP4
       url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-    - title: ML2
+    - title: UM2
       url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
 
-tnauss2: # replace this with your info
-  shortname: tnauss2
-  name: "Prof. Dr. Thomas Nauss2"
+
+hmeyer:
+  shortname: hmeyer
+  name: "Dr. Hanna Meyer"
   workgroup: "Umweltinformatik"
-  projectrole: "Sprecher Natur 4.0"
+  projectrole: "Projektleiterin"
   affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
   siterole: "Administrator"
-  uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+  uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/meyerh/index_html
   email: nauss@uni-marburg.de
   twitter: "@Nature40Lab"
-  img: tnauss.jpg
+  img: hmeyer.jpg
   subprojects: 
-    - title: Sprecher Natur 4.0
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-    - title: ÖP4
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
-    - title: ML2
-      url: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/nausst/index.html
+    - title: UM2
+      url: 0300-environmental-modelling
