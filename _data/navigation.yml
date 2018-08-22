@@ -1,44 +1,44 @@
 - title: Start
-  url: "/"
+  url: ""
   side: left
 
 - title: Über Natur 4.0
-  url: "/de/ueber/"
+  url: "/de/ueber"
   side: left
   dropdown:
   - title: "Kurz und bündig"
-    url: "/de/ueber/zusammenfassung/"
+    url: "/de/ueber/zusammenfassung"
   - title: "Ziele und Leitidee"
-    url: "/de/ueber/ziele/"
+    url: "/de/ueber/ziele"
   - title: "Moduleare Forschungsstruktur"
-    url: "/de/ueber/struktur/"
+    url: "/de/ueber/struktur"
   - title: "Projektbereich Sensornetzwerk"
-    url: "/de/ueber/sensornetzwerk/"
+    url: "/de/ueber/sensornetzwerk"
   - title: "Projektbereich Ökologische Pilotierung"
-    url: "/de/ueber/oekologie/"
+    url: "/de/ueber/oekologie"
   - title: "Projektbereich Umweltmodellierung"
-    url: "/de/ueber/umweltmodellierung/"
+    url: "/de/ueber/umweltmodellierung"
   - title: "Team"
-    url: "/de/ueber/team/"
+    url: "/de/ueber/team"
 
 - title: Praxis
-  url: "/de/praxis/"
+  url: "/de/praxis"
   side: left
   dropdown:
   - title: "Fragen und Antworten"
-    url: "/de/praxis/fragen/"
+    url: "/de/praxis/fragen"
 
 - title: Neuigkeiten
-  url: "/blog/"
+  url: "/blog"
   side: left
   dropdown:
   - title: "Nachrichtenarchiv"
-    url: "/blog/archiv/"
+    url: "/blog/archiv"
 
 - title: "Suche"
-  url: "/pages/de/suche/"
+  url: "/pages/de/suche"
   side: right
 
 - title: "Kontakt"
-  url: "/pages/de/kontakt/"
+  url: "/pages/de/kontakt"
   side: right
