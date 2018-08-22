@@ -2,6 +2,7 @@
 subheadline: Natur 4.0 | Sensing Biodiversity
 title:  "Projektbereich Sensornetzwerk"
 teaser: "Um die notwendige Datendichte in NatNet zu erreichen, ist eine kontinuierliche, mobile und den Mikrohabitatskalen von Pflanzen und Tieren Rechnung tragende Datenerfassung nach dem Prinzip des Crowdsensing notwendig. Im Projektbereich Sensornetznetzwerk (SN) werden die hierfür verwendeten Sensorboxen realisiert und zusammen mit der Koordination im Natur 4.0 Lab deren Einrichtung, Wartung und Betreuung organisiert."
+slug: sensornetzwerk
 ---
 
 <div class="row">
@@ -34,24 +35,21 @@ Der Projektbereich SN legt mit der zentralen Datenerfassungskomponente die Grund
 ### SN1 | Sensorboxen
 {: #SN1 }
 
-Projektleitung | [Bernd Freisleben]({{ site.baseurl }}{% link pages/de/team.md %}#bfreisleben), [Ralf Steinmetz]({{ site.baseurl }}{% link pages/de/team.md %}#rsteinmetz)
-Team | NN
+Team | [Bernd Freisleben]({{ site.baseurl }}{% link _about_de/0900-team.md %}#bfreisleben), [Ralf Steinmetz]({{ site.baseurl }}{% link _about_de/0900-team.md %}#rsteinmetz)
 Herausforderung | Autonom kommunizierende ortsfeste und mobile Sensorboxen bilden die Datenerfassungskomponente von NatNet. Für die konkurrierenden Entwurfskriterien der Boxen bzgl. plattformspezifischen Sensorkombinationen, Gewicht, Energieeffizienz, Funkreichweite etc. (Piyare et al. 2017) müssen dedizierte Lösungen erforscht und implementiert werden.
 
 
 ### SN2 | Kommunikation und Apps
 {: #SN2 }
 
-Projektleitung | [Ralf Steinmetz]({{ site.baseurl }}{% link pages/de/team.md %}#rsteinmetz), [Bernd Freisleben]({{ site.baseurl }}{% link pages/de/team.md %}#bfreisleben)
-Team | NN
+Team | [Ralf Steinmetz]({{ site.baseurl }}{% link _about_de/0900-team.md %}#rsteinmetz), [Bernd Freisleben]({{ site.baseurl }}{% link _about_de/0900-team.md %}#bfreisleben)
 Herausforderung | Die hochauflösenden Sensorboxen (SN1) erfordern effiziente und angepasste Kommunikationsmechanismen zur Übertragung der Daten an die zentrale Datenbank (UM1). Gleichzeitig verlangt die Mobilität und Planbarkeit der Bewegung die Realisierung von Konzepten der opportunistischen Kommunikation mittels heterogenen Funktechnologien. Bisherige Arbeiten adressieren entweder homogene Szenarien in Bezug auf die zu übertragenden Daten oder Szenarien ohne mobile Sensorplattformen (z.B. Jukan, Masip-Bruin & Amla 2017).
 
 
 ### SN3 | Bildungswissenschaftliche Beteiligung
 {: #SN3 }
 
-Projektleitung | [Carina Peter]({{ site.baseurl }}{% link pages/de/team.md %}#cpeter)
-Team | NN
+Team | [Carina Peter]({{ site.baseurl }}{% link _about_de/0900-team.md %}#cpeter)
 Herausforderung | Zusätzlich zu den technischen und biotischen Plattformen bilden bürgerwissenschaftliche Aktivitäten eine zentrale Datenerfassungskomponente in NatNet. Gleichzeitig ist anzunehmen, dass durch die Einbindung von Bürgern in Forschungsaktivitäten das Wissenschaftsverständnis im Sinne einer Scientific Literacy gefördert wird. Der potenzielle Nutzen für beteiligte Bürger wurde aber bisher nicht untersucht (Bonney et al. 2009).
 
 {% include next-previous-page-in-category content='about' %}

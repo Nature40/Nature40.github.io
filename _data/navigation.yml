@@ -3,45 +3,42 @@
   side: left
 
 - title: Über Natur 4.0
-  url: "/pages/de/ueber-natur-40/"
+  url: "/de/ueber/"
   side: left
   dropdown:
   - title: "Kurz und bündig"
-    url: "/pages/de/ueber-natur-40/one-page-summary/"
+    url: "/de/ueber/zusammenfassung/"
   - title: "Ziele und Leitidee"
-    url: "/pages/de/ueber-natur-40/0010-aims/"
+    url: "/de/ueber/ziele/"
   - title: "Moduleare Forschungsstruktur"
-    url: "/pages/de/ueber-natur-40/0020-structure/"
+    url: "/de/ueber/struktur/"
   - title: "Projektbereich Sensornetzwerk"
-    url: "/pages/de/ueber-natur-40/0100-sensor-networks/"
+    url: "/de/ueber/sensornetzwerk/"
   - title: "Projektbereich Ökologische Pilotierung"
-    url: "/pages/de/ueber-natur-40/0200-ecology/"
+    url: "/de/ueber/oekologie/"
   - title: "Projektbereich Umweltmodellierung"
-    url: "/pages/de/ueber-natur-40/0300-environmental-modelling/"
+    url: "/de/ueber/umweltmodellierung/"
+  - title: "Team"
+    url: "/de/ueber/team/"
 
-- title: Methoden und Sensorik
-  url: "/pages/de/methoden-sensorik/"
+- title: Praxis
+  url: "/de/praxis/"
   side: left
+  dropdown:
+  - title: "Fragen und Antworten"
+    url: "/de/praxis/fragen/"
 
-- title: Team
-  url: "/pages/de/team/"
-  side: left
-
-- title: Fragen und Antworten
-  url: "/pages/de/questions-answers/"
-  side: left
-
-- title: Blog
+- title: Neuigkeiten
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archiv"
+  - title: "Nachrichtenarchiv"
     url: "/blog/archiv/"
 
 - title: "Suche"
-  url: "/pages/de/search/"
+  url: "/pages/de/suche/"
   side: right
 
 - title: "Kontakt"
-  url: "/pages/de/contact/"
+  url: "/pages/de/kontakt/"
   side: right

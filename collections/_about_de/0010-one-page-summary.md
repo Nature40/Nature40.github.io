@@ -3,6 +3,7 @@ layout: page-fullwidth
 title: "Natur 4.0 - kurz und bündig"
 subheadline: "Natur 4.0 | Sensing Biodiversity"
 teaser: "Naturschutzmonitoring durch vernetzte Sensorik als Grundlage für einen nachhaltigen Artenschutz und die Sicherung von Ökosystemfunktionen."
+slug: zusammenfassung
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 categories:

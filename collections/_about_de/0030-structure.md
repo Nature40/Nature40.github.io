@@ -2,6 +2,7 @@
 subheadline: Natur 4.0 | Sensing Biodiversity
 title:  "Moduleare Forschungsstruktur"
 teaser: "Die Entwicklung von NatNet erfordert einen wissenschaftlichen Verbund und ein dynamisches Projektmanagement. Zur Nutzung von Synergien sind die Teilprojekte drei Projektbereichen mit differenzierten Zielen zugeordnet. Zusammen bilden sie das Natur 4.0 Lab, das als zentrale Organisationsstruktur die Verzahnung der Forschungsaktivitäten begleitet."
+slug: struktur
 ---
 
 <div class="row">

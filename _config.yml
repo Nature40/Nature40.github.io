@@ -103,16 +103,26 @@ compress_html:
 #   /_____/\___/_/  \__,_/\__,_/_/\__/
 #
 # Default Settings
+collections_dir: collections
 
+collections:
+  about_de:
+    output: true
+    permalink: /de/ueber/:title
+  practice_de:
+    output: true
+    permalink: /de/praxis/:title
+
+    
 defaults:
   - scope:
-      path: '' 				# an empty string here means all files in the project
+      path: '_pages/de' 				# an empty string here means all files in the project
       type: 'pages'
     values:
+      language: de
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: tnauss     # Default author for pages
   
   - scope:
       path: ''
@@ -124,17 +134,19 @@ defaults:
       author: tnauss     # Default author for posts
   
   - scope:
-      path: "pages/de/ueber-natur-40"
-      type: 'pages'
+      path: ""
+      type: 'about_de'
     values:
-      categories: "about"
+      language: de
+      categories: "about_de"
       layout: "page-fullwidth"
 
   - scope:
-      path: "pages/de/methoden-sensorik"
-      type: 'pages'
+      path: ""
+      type: 'practice_de'
     values:
-      categories: "methods"
+      language: de
+      categories: "practice_de"
       layout: "page-fullwidth"
 
 

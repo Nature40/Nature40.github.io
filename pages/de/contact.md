@@ -7,6 +7,7 @@ header:
    image_fullwidth: "header_roadmap_2.jpg"
 categories:
     - contact
+permalink: /de/kontakt
 ---
 
 
