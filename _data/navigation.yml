@@ -36,9 +36,9 @@
     url: "/blog/archiv"
 
 - title: "Suche"
-  url: "/pages/de/suche"
+  url: "/de/suche"
   side: right
 
 - title: "Kontakt"
-  url: "/pages/de/kontakt"
+  url: "/de/kontakt"
   side: right

@@ -16,7 +16,7 @@ tnauss:
   email: nauss@uni-marburg.de
   twitter: "@Nature40Lab"
   img: tnauss.jpg
-  subprojects: 
+  subprojects:
     - title: Sprecher Natur 4.0
       url: 0400-nature-40-lab
     - title: ÖP4
@@ -33,9 +33,230 @@ hmeyer:
   affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
   siterole: "Administrator"
   uri: https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/meyerh/index_html
-  email: nauss@uni-marburg.de
+  email: hanna.meyer@geo.uni-marburg.de
   twitter: "@Nature40Lab"
   img: hmeyer.jpg
-  subprojects: 
+  subprojects:
     - title: UM2
       url: 0300-environmental-modelling
+
+
+bfreisleben:
+  shortname: bfreisleben
+  name: "Prof. Dr.-Ing. Bernd Freisleben"
+  workgroup: "Verteilte Systeme"
+  projectrole: "Projektleiterin"
+  affiliation: "Fachbereich Mathematik/Informatik | Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: https://www.uni-marburg.de/fb12/arbeitsgruppen/verteilte_systeme/mitarbeiter/webfreisleb
+  email: freisleb@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: bfreisleben.jpg
+  subprojects:
+    - title: SN1
+      url: 0100-sensor-networks
+    - title: SN2
+      url: 0100-sensor-networks      
+      
+
+
+nfarwig:
+  shortname: nfarwig
+  name: "Prof. Dr. Nina Farwig"
+  workgroup: "Naturschutz"
+  projectrole: "Projektleiterin"
+  affiliation: "Fachbereich Biologie | Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: http://www.uni-marburg.de/fb17/fachgebiete/naturschutz/naturschutz
+  email: nfarwig@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: nfarwig.jpg
+  subprojects:
+    - title: ÖP6
+      url: 0200-ecological-piloting
+
+jbendix:
+  shortname: jbendix
+  name: "Prof. Dr. Jörg Bendix"
+  workgroup: "Geoökologie"
+  projectrole: "Projektleiter"
+  affiliation: "Fachbereich Geographie | Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: http://www.lcrs.de
+  email: jbendix@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: jbendix.jpg
+  subprojects:
+    - title: UM2
+      url: 0300-environmental-modelling
+
+rbrandl:
+  shortname: rbrandl
+  name: "Prof. Dr. Roland Brandl"
+  workgroup: "Allgemeine Ökologie und Tierökologie"
+  projectrole: "Projektleiter"
+  affiliation: "Fachbereich Biologie | Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: https://www.uni-marburg.de/fb17/fachgebiete/oekologie/tieroekologie/mitarbeiter/brandl/brandl?language_sync=1
+  email: rbrandl@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: rbrandl.jpg
+  subprojects:
+    - title: ÖP2
+      url: 0200-ecological-piloting
+
+mbraendle:
+  shortname: mbraendle
+  name: "Dr. Martin Brändle"
+  workgroup: "Ökologie"
+  projectrole: "Projektleiter"
+  affiliation: "Fachbereich Biologie | Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: https://www.uni-marburg.de/fb17/fachgebiete/oekologie/tieroekologie/mitarbeiter/copy_of_braendle
+  email: braendle@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: mbraendle.jpg
+  subprojects:
+    - title: ÖP2
+      url: 0200-ecological-piloting
+
+hholzmann:
+  shortname: hholzmann
+  name: "Prof. Dr. Hajo Holzmann"
+  workgroup: " Mathematische und Angewandte Statistik"
+  projectrole: "Projektleiter"
+  affiliation: "Fachbereich Mathematik & Informatik, Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: https://www.uni-marburg.de/fb12/kooperationen/stoch/personal/holzmann
+  email: holzmann@mathematik.uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: hholzmann.jpg
+  subprojects:
+    - title: UM3
+      url: 0300-environmental-modelling
+
+tmueller:
+  shortname: tmueller
+  name: "Jun. Prof. Dr. Thomas Müller"
+  workgroup: "Movement Ecology & Biodiversity Conservation"
+  projectrole: "Projektleiter"
+  affiliation: "Fachbereich Biowissenschaften"
+  siterole: "Editor"
+  uri: http://www.bik-f.de/root/index.php?page_id=774
+  email: thomas.mueller@senckenberg.de
+  twitter: "@Nature40Lab"
+  img: tmueller.jpg
+  subprojects:
+    - title: ÖP5
+      url: 0200-ecological-piloting
+      
+lopgenoorth:
+  shortname: lopgenoorth
+  name: "Dr. Lars Opgenoorth"
+  workgroup: "Allgemeine Ökologie"
+  projectrole: "Projektleiter"
+  affiliation: "Fachbereich Biologie | Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: https://www.uni-marburg.de/fb17/fachgebiete/oekologie/tieroekologie/mitarbeiter/opgenoorth/opgenoorth?language_sync=1
+  email:  opgenoorth@uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: lopgenoorth.jpg
+  subprojects:
+    - title: ÖP1
+      url: 0200-ecological-piloting
+
+
+rsteinmetz:
+  shortname: rsteinmetz
+  name: "Prof. Dr.-Ing. Ralf Steinmetz"
+  workgroup: "Multimedia Kommunikation"
+  projectrole: "Projektleiter"
+  affiliation: "Elektrotechnik und Informationstechnik, TU Darmstadt"
+  siterole: "Editor"
+  uri: https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/people/staff/ralf-steinmetz/
+  email: Ralf.Steinmetz@kom.tu-darmstadt.de
+  twitter: "@Nature40Lab"
+  img: rsteinmetz.jpg
+  subprojects: 
+    - title: SN1
+      url: 0100-sensor-networks
+    - title: SN2
+      url: 0100-sensor-networks
+
+
+bseeger:
+  shortname: bseeger
+  name: "Prof. Dr. Bernhard Seeger"
+  workgroup: "Praktische Informatik / Datenbanksysteme"
+  projectrole: "Projektleiter"
+  affiliation: "Mathematik & Informatik, Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: http://www.mathematik.uni-marburg.de/~seeger/
+  email: seeger@mathematik.uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: bseeger.jpg
+  subprojects: 
+    - title: UM1
+      url: 0300-environmental-modelling
+
+
+creudenbach:
+  shortname: creudenbach
+  name: "Dr. Christoph Reudenbach"
+  workgroup: "GIS/Fernerkundung/Umweltmodellierung"
+  projectrole: "Projektleiter"
+  affiliation: "Geographie, Philipps-Universität Marburg"
+  siterole: "Administrator"
+  uri: https://www.uni-marburg.de/fb19/personal/mitarbeiter/reudenbachc/index.html
+  email: reudenbach@geo.uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: creudenbach.jpg
+  subprojects: 
+    - title: UM1
+      url: 0300-environmental-modelling
+
+sdahlke:
+  shortname: sdahlke
+  name: "Prof. Dr. Stephan Dahlke"
+  workgroup: "Numerische Mathematik"
+  projectrole: "Projektleiter"
+  affiliation: "Fachbereich MAthematik und Informatik | Philipps-Universität Marburg"
+  siterole: "Administrator"
+  uri: https://www.mathematik.uni-marburg.de/~dahlke
+  email: dahlke@mathematik.uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: sdahlke.jpg
+  subprojects:
+    - title: UM2
+      url: 0400-environmental-modelling
+
+
+pquillfeldt:
+  shortname: pquillfeldt
+  name: "Prof. Dr. Petra Quillfeldt"
+  workgroup: "Verhaltensökologie und Ökophysiologie"
+  projectrole: "Projektleiterin"
+  affiliation: "Biologie & Chemie, Justus-Liebig-Universität Gießen"
+  siterole: "Editor"
+  uri: http://www.uni-giessen.de/fbz/fb08/Inst/tsz/voekophysiologie/mitarbeiter/pequ
+  email: Petra.Quillfeldt@bio.uni-giessen.de
+  twitter: "@Nature40Lab"
+  img: pquillfeldt.jpg
+  subprojects: 
+    - title: ÖP3
+      url: 0200-ecological-piloting
+
+cpeter:
+  shortname: cpeter
+  name: "Prof. Dr. Carina Peter"
+  workgroup: "Geographiedidaktik"
+  projectrole: "Projektleiterin"
+  affiliation: "Geographie, Philipps-Universität Marburg"
+  siterole: "Editor"
+  uri: https://www.uni-marburg.de/fb19/fachgebiete/geographiedidaktik/peterc/index_html
+  email: carina.peter@geo.uni-marburg.de
+  twitter: "@Nature40Lab"
+  img: cpeter.jpg
+  subprojects: 
+    - title: SN3
+      url: 0100-sensor-networks

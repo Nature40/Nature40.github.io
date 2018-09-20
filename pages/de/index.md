@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_5.jpg
+  image_fullwidth: header_001.jpg
 widget1:
   title: "Natur 4.0 im Überblick"
   url: '/de/ueber/zusammenfassung'
-  image: widget-1-302x182.jpg
+  image: widget_header_003.jpg
   text: 'Flächendeckendes Naturschutzmonitoring durch vernetzte Sensorik als Grundlage für einen nachhaltigen Artenschutz und die Sicherung von Ökosystemfunktionen.'
 widget2:
   title: "Das Team von Natur 4.0"
   url: '/de/ueber/team'
   text: 'Vernetztes Naturschutzmonitoring erfordert ein vernetztes Team im Querschnittsverbund aus Wissenschaft, Praxis und Bildung.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: widget_team.jpg
 widget3:
-  title: "Fragen und Kontakt"
+  title: "Kontakt"
   url: '/de/praxis/fragen'
-  image: widget-github-303x182.jpg
+  image: widget_questions.jpg
   text: 'Waldspaziergang mit Roboter? Hier finden Sie Antworten auf allgemeine Fragen und Kontaktinformationen.'
 #
 # Use the call for action to show a button on the frontpage

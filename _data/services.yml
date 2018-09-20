@@ -1,8 +1,12 @@
 - menu_name: "Service"
 
 - name: "Kontakt"
-  url: "/pages/de/contact/"
+  url: "/de/kontakt"
   title: "Kontakt"
+  
+- name: "Impressum und Datenschutz"
+  url: "/de/impressum"
+  title: "Impressum und Datenschutz"
 
 - name: "RSS"
   url: "/feed.xml"

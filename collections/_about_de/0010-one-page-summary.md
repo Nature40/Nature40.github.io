@@ -4,8 +4,6 @@ title: "Natur 4.0 - kurz und bündig"
 subheadline: "Natur 4.0 | Sensing Biodiversity"
 teaser: "Naturschutzmonitoring durch vernetzte Sensorik als Grundlage für einen nachhaltigen Artenschutz und die Sicherung von Ökosystemfunktionen."
 slug: zusammenfassung
-header:
-   image_fullwidth: "header_roadmap_2.jpg"
 categories:
     - notabout
 ---
@@ -30,7 +28,7 @@ Naturschutzstrategien erfordern die Beobachtung und Bewertung von Landschaft. Ex
 Ziel des LOEWE-Schwerpunkts Natur 4.0 ist die Entwicklung eines Prototyps von *NatNet*, einem modularen Umweltmonitoringsystem zur hoch aufgelösten Beobachtung von naturschutzrelevanten Arten, Lebensräumen und Prozessen. *NatNet* basiert auf der Kombination von naturschutzfachlichen Expertenaufnahmen und vernetzten Fernerkundungs- und Umweltsensoren, die an ferngesteuerten Fluggeräten, fahrenden Robotern und Tieren angebracht sowie in bildungswissenschaftlichen Projekten eingesetzt werden. Zusammen mit leistungsfähigen Datenintegrations- und Datenanalysemethoden ermöglicht *NatNet* die differenzierte und effektive Beobachtung von Landschaft. Die erfassten Zeitreihen dienen zudem der Entwicklung von Frühwarnindikatoren. Natur 4.0 geht damit einen neuen Weg im Bereich der flächendeckenden Umweltbeobachtung. Es verdichtet die in situ Untersuchungen von Experten und nutzt die nicht-reguläre Datenerhebung mit mobilen Plattformen zur Modellierung naturschutzfachlicher Informationen in Form von regulären, kleinräumig differenzierten Raster-karten.
 
 ## Testgebiet {#Testgebiet}
-Als Testgebiet für die Prototypentwicklung von *NatNet* dient der im Besitz der Philipps-Universität befindliche Marburger Universitätswald. Dieser wird in Natur 4.0 zu einem offenen Forschungs- und Entwicklungsgebiet, dem *MarburgOpenForest* für neue Verfahren der Umweltbeobachtung etabliert. Als ersten Schritt wurden hierfür 2017 bereits Sachinvestitionen von über 100.000 Euro durch den Fachbereich Geographie der Philipps-Universität freigegeben.
+Als Testgebiet für die Prototypentwicklung von *NatNet* dient der im Besitz der Philipps-Universität befindliche Marburger Universitätswald. Dieser wird in Natur 4.0 zu einem offenen Forschungs- und Entwicklungsgebiet, dem *MarburgOpenForest* für neue Verfahren der Umweltbeobachtung etabliert.
 
 ## Interdisziplinäre Forschung
 Das nur im wissenschaftlichen Querschnittsverbund erreichbare Ziel verbindet Wissenschaftler/innen der Geographie, Informatik, Mathematik und Ökologie mit naturschutzfachlichen Experten/-innen aus Verwaltung und Privatwirtschaft. Es spannt die Brücke zwischen Grundlagenforschung und angewandter Forschung und bindet Schulen und Bürger in die wissenschaftlichen Untersuchungen ein. Das Innovationspotential schärft den Profilbereich „Biodiversität und Klima“ der Philipps-Universität sowie den Profilbereich „Klima- und Klimafolgenforschung“ des Forschungscampus Mittelhessen und komplementiert die vorhandene Expertise. Damit stärkt Natur 4.0 den Standort Hessen und liefert ein innovatives Instrument für die Umweltbeobachtung.
